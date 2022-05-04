@@ -1,0 +1,7 @@
+{
+  "name": "ionicpwavue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
