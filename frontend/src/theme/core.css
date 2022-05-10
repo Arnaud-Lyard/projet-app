@@ -1,0 +1,14 @@
+ion-toolbar {
+    --background: var(--ion-color-danger);
+    --color: var(--ion-color-danger-contrast);
+}
+ion-menu-button {
+    --color: var(--ion-color-danger-contrast);
+}
+ion-back-button {
+    --color: var(--ion-color-danger-contrast);
+}
+ion-button {
+    --color: var(--ion-color-danger-contrast);
+    --background: var(--ion-color-danger);
+}
